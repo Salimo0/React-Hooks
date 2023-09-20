@@ -1,0 +1,9 @@
+/*App.css*/
+.App {
+    text-align: center;
+    border: solid;
+    background-color: rgb(0, 57, 57);
+}
+.filter{
+    margin-bottom: 20px;
+}
